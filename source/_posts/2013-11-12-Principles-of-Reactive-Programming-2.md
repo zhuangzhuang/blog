@@ -1,7 +1,7 @@
 ---
-title: Principles of Reactive Programming-2
+title: Principles of Reactive Programming
 date: 2013-11-12 20:33:06
-tags: [scala, coursera]
+tags: [scala, coursera, rx]
 ---
 
 # 第二节课笔记
